@@ -1,0 +1,35 @@
+
+.new-1col {
+/*  overflow: hidden;  */
+}
+
+.new-1col .panel-col {
+  border: 1px solid #cccccc;
+  border-top: 0;
+  background-color: #fff;
+}
+
+.new-1col .panel-col .inside {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  padding: 30px;
+}
+
+.new-1col .panel-col .inside .pane-content {
+  
+}
+
+
+#panels-edit-display .panel-pane,
+#panels-edit-display .helperclass {
+  margin: .5em;
+}
+
+.new-1col .panel-separator {
+  margin: 0 0 1em 0;
+}
+
+.with-sub-nav #block-system-main .content .new-1col .panel-col {
+  _margin-top: 40px;
+}

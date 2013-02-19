@@ -1,0 +1,27 @@
+#main #usa {
+  background-color: transparent;
+  border: 0;
+  box-shadow: 0 0 0 transparent;
+  margin: 0;
+  padding: 0;
+}
+#easyTooltip {
+  font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 5px 10px;
+  border: 2px solid #fff;
+  background: #3995CB;
+  color: #fff;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-box-shadow: 1px 1px 4px rgba(0,0,0,.4);
+  -webkit-box-shadow: 1px 1px 4px rgba(0,0,0,.4);
+  box-shadow: 1px 1px 4px rgba(0,0,0,.4);
+}
+
+/* center the pane title */
+.pane-map {
+  margin-bottom: 20px;
+}

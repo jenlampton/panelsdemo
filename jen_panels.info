@@ -1,0 +1,8 @@
+name = Custom panels
+description = Custom layouts and content types by <a href="http://www.jeneration.com">Jeneration</a>
+package = Jeneration
+core = 7.x
+version = 7.x-1.0
+
+dependencies[] = panels
+dependencies[] = page_manager
